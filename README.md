@@ -8,7 +8,7 @@ Specialized in real-time AI pipelines, OCR systems, spoof detection, and scalabl
 
 ---
 
-### 👨‍💻 Professional Summary
+### 👨‍💻 MySelf
 
 I design and deploy **end-to-end AI systems** that move beyond research into real-world impact.  
 My work focuses on combining **deep learning models** with **robust backend infrastructure** to deliver scalable and reliable AI-powered applications.
