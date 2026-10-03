@@ -90,7 +90,7 @@ Docker • Podman • NGINX • Linux (RHEL/Ubuntu)
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KorkanaRahul&show_icons=true&theme=tokyonight)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KorkanaRahul&show_icons=true&theme=tokyonight)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KorkanaRahul&layout=compact&theme=tokyonight)
 
